@@ -1,2 +1,2 @@
 # COMPETITIVE-PROGRAMING-SOLUTION.
-net.day
+net.
